@@ -14,6 +14,24 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 30/06/2018  
+**Company:** [Centro Sviluppo SRL]
+**Location:** Torino
+**Title:** 1 Senior / 2 Junior Java Software Engineer
+**Contact:** <lperino@centrosvilupposrl.it>
+
+Stiamo cercando urgentemente 1 analista/sviluppatore JAVA senior con 3/4 anni di esperienza e 2 sviluppatori junior con 1/2 anni di esperienza da inserire in un progetto di customizing della durata minima di 2 anni.
+Sono richieste preferibilmente le seguenti conoscenze:
+
+**Back end**
+JAVA/J2EE, WebSphere Application Server, MQ, SQL, Oracle stored procedure, MyBatis, JPA, EJB 3.0 
+**Front end**
+HTML5/CSS3, bootstrap, Jquery (JQWidgets), JavaScript, framework Knockout 
+
+Per la candidatura o la richiesta di ulteriori informazioni scrivete a lperino@centrosvilupposrl.it.
+
+---
+
 **Date:** 05/01/2018  
 **Company:** [Engage Technology Partners](https://www.engagetech.com/)  
 **Location:** Remote  
